@@ -27,14 +27,21 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-computer: I'm a third-year student at Arbaminch University, specializing in Web and Game Development
-:hourglass_flowing_sand: Currently exploring Google Cloud & Microsoft Azure to enhance my skill set
-:rocket: Always ready to collaborate on development experiments and innovative projects
-:man_technologist: Former Project Lead Intern at GirlScript Foundation, gaining valuable leadership experience
-:dart: Life Hack: "Explore :fire: and explode :bomb: with knowledge" for continuous growth
-:trophy: Proud to be a Grand Finalist of the Smart India Hackathon 2019 - Software Edition
-:zap: Fun fact: I love attending meetups for learning & conferences for networking opportunities
+computer: I'm a third-year student at Arbaminch University,
+specializing in Web and Game Development
+:hourglass_flowing_sand: 
+Currently exploring Google Cloud & Microsoft Azure to enhance my skill set
+:rocket: 
+Always ready to collaborate on development experiments and innovative projects
+:man_technologist:
+Former Project Lead Intern at GirlScript Foundation, gaining valuable leadership experience
+:dart:
+Life Hack: "Explore :fire: and explode :bomb: with knowledge" for continuous growth
+:trophy:
+Proud to be a Grand Finalist of the Smart India Hackathon 2019 - Software Edition
+:zap: Fun fact:
+I love attending meetups for learning & conferences for networking opportunities
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
+[t-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
 [![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
