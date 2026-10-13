@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Software Engineering student interested in building modern, responsive web applications and developing practical software solutions.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/863b730a-974b-434c-82f3-5ea6b11ea849"
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA4OGRibTR1MmJ5M2ZjMGlwZW1hdWZ1NnlkeGFhZmFqeXc3MnVjdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.webp"
        alt="Coding Animation"
        width="500"/>
 </p>
