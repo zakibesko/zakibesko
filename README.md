@@ -3,6 +3,16 @@
 ### 💻 Fourth-Year Software Engineering Student | Web Developer
 
 Welcome to my GitHub profile! I'm a passionate Software Engineering student interested in building modern, responsive web applications and developing practical software solutions.
+<p align="center">
+  <img src="<img width="344" height="200" alt="image" src="https://github.com/user-attachments/assets/863b730a-974b-434c-82f3-5ea6b11ea849" />
+"
+       alt="Coding Animation"
+       width="500"/>
+</p>
+</p>"
+       alt="Coding Animation"
+       width="500"/>
+</p>
 ## 🛠️ Technologies & Tools
 
 <p align="left">
