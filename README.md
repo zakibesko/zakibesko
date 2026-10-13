@@ -1,46 +1,61 @@
-# Hi there! 👋
-I'm **zakibesko**, a junior Web and Game Developer 💻.
+# Hi there! 👋 I'm Zakariye Mohamed Abdalle
 
-![Animated Software Engineering](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxESERMQEhMVFhIVFRYYFRUVFhoWFxUVFRkYGBUXGBkaHSggGBolHhYWITEhJikrLi4uFyAzODMtOCgtLisBCgoKDg0OGxAQGy0lICUtLS0tLS0tLy4rLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYDBAcBAgj/xABLEAACAQIDAwcGBw8DBAMAAAABAgADEQQSIQUxQQYTUWFxgZEHIjJyobEUQlJTssHRFSMzNGJzgpKTorPC0uHwJDV0FkNU8Rclo//EABsBAQADAQEBAQAAAAAAAAAAAAACAwQFAQYH/8QANxEAAgECAwQIBAcAAgMAAAAAAAECAxEEEiETMUFRBRQyM2FxgZEiUqGxI0KSwdHh8FPxQ1Ri/9oADAMBAAIRAxEAPwDuMAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQAQBAEAQBAEAQBAEAPGAAE/////2Q==)
+### 💻 Fourth-Year Software Engineering Student | Web Developer
 
-## 🔧 Technologies and Tools I Use
+Welcome to my GitHub profile! I'm a passionate Software Engineering student interested in building modern, responsive web applications and developing practical software solutions.
+## 🛠️ Technologies & Tools
+
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://www.php.net/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
-    </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
+  </a>
 </p>
 
----
 
-## 👨🏻‍💻 About Me
-I'm a **third-year student** at **Arbaminch University**, specializing in **Web and Game Development**.
+## 👨‍💻 About Me
 
-- Currently exploring **Google Cloud** & **Microsoft Azure** to enhance my skill set.
-- Always ready to collaborate on development experiments and innovative projects.
-- Former Project Lead Intern at **GirlScript Foundation**, gaining valuable leadership experience.
-  
-🌟 **Life Hack**: "Explore 🔥 and explode 💣 with knowledge" for continuous growth.
+- 🎓 I'm a fourth-year Software Engineering student.
+- 🌐 I build web applications using modern frontend and backend technologies.
+- 🚀 I'm continuously improving my programming skills and learning new technologies.
+- 💡 I enjoy solving problems, building projects, and exploring new ideas.
+- 🤝 I'm open to collaborating on interesting software development projects.
 
-🏆 Proud to be a **Grand Finalist** of the **Smart India Hackathon 2019 - Software Edition**.
+## 🎯 Current Goals
 
-😄 **Fun fact**: I love attending meetups for learning & conferences for networking opportunities.
+- Build real-world web applications.
+- Improve my React and Laravel development skills.
+- Develop REST APIs using FastAPI.
+- Strengthen my knowledge of database design and software engineering.
+- Contribute to open-source projects and collaborate with other developers.
 
----
+## 📫 Connect With Me
 
-## 📫 Connect with Me
-Feel free to connect with me on my [Facebook profile](https://web.facebook.com/saki.cabdalla.9?_rdc=1&_rdr).
+Feel free to connect with me, share ideas, or collaborate on exciting projects!
+
+**Let's learn, build, and grow together! 🚀**
+
+> "Great software is built one line of code at a time." 💻
